@@ -1,3 +1,8 @@
+# VSCode config
 .vscode/
 
+# build folder
 build/
+
+# CPython
+*.pyc
